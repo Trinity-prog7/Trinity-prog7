@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Trinity-prog7
+- 👀 I’m interested in Front-end & Back-end
+- 🌱 I’m currently learning Symfony
+- 📫 How to reach me elena.glav13@gmail.com
